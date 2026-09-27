@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "key_id": "v2",
+  "version": "0.2.0",
+  "download_url": "https://github.com/Teramic85/cursenot-releases/releases/download/v0.2.0/CurseNot-0.2.0.zip",
+  "notes": "First public release: variant catching, custom sounds, mute, OBS overlay, setup wizard, signed updates.",
+  "signature": "7zXWv4s0n7EiBWAYBi0jG37pU/iGGc0qOpVVFWuCnsQ7A9DvJnHs/xLOh65Ztm2XdAze+dXq5YuWBQLjiq+PCA=="
+}
