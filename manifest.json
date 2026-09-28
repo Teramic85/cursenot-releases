@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "key_id": "v2",
-  "version": "0.2.2",
-  "download_url": "https://github.com/Teramic85/cursenot-releases/releases/download/v0.2.2/CurseNot-0.2.2.zip",
-  "notes": "Faster catches (words are caught while you're still talking) and room noise is no longer mistaken for words.",
-  "signature": "Vy3Pw/YA+S0I6lwGwlZqzANJ21AiNq8sQJ7B5tMzgL5wvRONgXU2EZo+mYvl5xz9jBkE+SdUxm2cG8yR8aKSBg=="
+  "version": "0.2.3",
+  "download_url": "https://github.com/Teramic85/cursenot-releases/releases/download/v0.2.3/CurseNot-0.2.3.zip",
+  "notes": "Fixes a false antivirus warning (Kaspersky could flag 0.2.2). No other changes.",
+  "signature": "h08y+kL2exXN4V4+k5jzw/7CdpVZIUDS9I6a/chIIa3Tz7BAJJB87nG+E2UMf2GALJTby5xerwpmxwZyyEBbCw=="
 }
