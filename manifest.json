@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "key_id": "v2",
-  "version": "0.2.1",
-  "download_url": "https://github.com/Teramic85/cursenot-releases/releases/download/v0.2.1/CurseNot-0.2.1.zip",
-  "notes": "Less delay: device buffering cut from ~260 ms to 60 ms (WASAPI VB-Cable), plus advice on the smallest safe censor delay.",
-  "signature": "IaHKTmSsmR5Gl+qggectt0AkBoU1o1haoQ+AEVitMW3n5FNsd8UCHTZD//UjSOv/m1mLIl1dNXOAIq0gtBubDg=="
+  "version": "0.2.2",
+  "download_url": "https://github.com/Teramic85/cursenot-releases/releases/download/v0.2.2/CurseNot-0.2.2.zip",
+  "notes": "Faster catches (words are caught while you're still talking) and room noise is no longer mistaken for words.",
+  "signature": "Vy3Pw/YA+S0I6lwGwlZqzANJ21AiNq8sQJ7B5tMzgL5wvRONgXU2EZo+mYvl5xz9jBkE+SdUxm2cG8yR8aKSBg=="
 }
